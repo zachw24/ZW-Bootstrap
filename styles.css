@@ -7,3 +7,15 @@
   font-size: 1.2em;
   border: 0;
 }
+.navbar-brand {
+  float: left;
+  min-height: 55px;
+  padding: 0 15px 50px;
+}
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover{
+color: #FFF;
+background-color: #5E4485;
+}
+.navbar-inverse .navabar-nav li a{
+  color: #0505D5;
+}
